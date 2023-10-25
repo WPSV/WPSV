@@ -24,5 +24,5 @@ My name is William and here you can see what i know and what i'm learning now!
 </div>
 
 <div><br>
-  <a href="https://www.linkedin.com/in/william-pedro-silva-vieira-70413315b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  <a href="https://www.linkedin.com/in/william-pedro-silva-vieira-70413315b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </div>
