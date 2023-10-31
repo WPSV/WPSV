@@ -7,11 +7,11 @@ My name is William and here you can see what i know and what i'm learning now!
 - 👯 I’m looking to collaborate on projects that i can learn more and teach/help other developers in same path.
 - ⚡ Hobbies: I like to play sports, to play video games and to learn development.
 
-/*<div align="center">
+<div align="center">
   <a href="https://github.com/WPSV">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WPSV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=WPSV&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WPSV&layout=compact&langs_count=7&theme=dracula"/>
-</div>*/
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/> 
